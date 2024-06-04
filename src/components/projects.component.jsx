@@ -1,7 +1,6 @@
 
 import Tilt from 'react-parallax-tilt';
 
-import nasa from "../assets/nasa.png"
 import smartBrain from "../assets/smart-brain.png"
 import crownClothing from "../assets/crown-clothing.png"
 import passwordManager from "../assets/password-manager.png"

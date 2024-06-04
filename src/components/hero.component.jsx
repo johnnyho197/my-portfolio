@@ -15,7 +15,7 @@ const Hero = () => {
         <div className="hero-info pb-5 md:pb-5">
           <h1 className="text-6xl lg:text-7xl">
             Hi, <br />I am <span className="text-accent">Huu</span>Thien <br />
-            a Software Developer
+            a Full Stack Engineer
           </h1>
 
           <div className="flex my-6">
