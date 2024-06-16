@@ -3,7 +3,7 @@ import Portrait from "../assets/my-portrait.jpg";
 
 const About = () => {
   const onClickButton = () =>{
-    const resumeURL = 'https://drive.google.com/file/d/1op-QGar4gO8LNEiyKP2C8yvgkmIuWoIA/view?usp=sharing';
+    const resumeURL = 'https://docs.google.com/document/d/1zy266DxQ0KGPWsZPyFZfzReFvoTTSkMB28teyhi_xeI/edit?usp=sharing';
 
     window.open(resumeURL);
   }
